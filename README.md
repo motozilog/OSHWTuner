@@ -36,6 +36,13 @@
 
 ---
 
+## Hardware Open Source
+
+The hardware design (schematics, PCB, and mechanical files) is fully open source and available at:  
+🔗 **[OSHWHub - OSHWTuner Hardware Project](https://oshwhub.com/motozilog/project_dgkawstp)**
+
+---
+
 ## Development Environment
 
 - **MCU Firmware**  
