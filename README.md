@@ -1,6 +1,6 @@
 # OSHWTuner
 
-**OSHW Tuner** is a Bluetooth & USB music sheet tuner designed for musicians and performers. It supports both Bluetooth HID Keyboard mode and USB HID Device mode, making it compatible with a wide range of devices and platforms.
+**OSHW Tuner** is an **Open Source Bluetooth & USB music sheet tuner ** designed for musicians and performers. It supports both Bluetooth HID Keyboard mode and USB HID Device mode, making it compatible with a wide range of devices and platforms.
 
 ---
 
@@ -17,7 +17,7 @@
   Provides **8 preset profiles** that can be switched instantly via the hardware encoder — no accidental mode changes during performance.
 
 - **Dual Physical Switches**  
-  - **Mode switch**: BCD encoder for reliable, accident‑free input mode changes (Left/Right, Up/Down, PageUP/PageDown, Space/Enter).  
+  - **Profile switch**: BCD encoder for reliable, accident‑free input mode changes (Left/Right, Up/Down, PageUP/PageDown, Space/Enter).  
   - **Power switch**: Hard‑wired on/off — eliminates standby power drain and gives you true peace of mind.
 
 - **Always-On Mode**  
