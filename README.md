@@ -83,7 +83,7 @@ The hardware design (schematics, PCB, and mechanical files) is fully open source
 
 | Mode          | Supported Platforms                          |
 |---------------|----------------------------------------------|
-| Bluetooth HID | iOS (Piascore), Android (YouPuMe, etc.), Windows 7 to 11 (Windows 8 not tested) |
+| Bluetooth HID | iOS (Piascore), Android (有谱么, etc.), Windows 7 to 11 (Windows 8 not tested) |
 | USB HID       | Windows 7 to 11 (Windows 8 not tested)       |
 
 ---
